@@ -215,7 +215,7 @@ To prefix the syslog with Date/Time, Facility/Severity, and IP Address of the de
  
 
 
-**For full information about Power Syslog Server please refer to the following page: [http://www.myskypelab.com/2014/09/power-syslog-server.html](http://www.myskypelab.com/2014/09/power-syslog-server.html)**
+**For full information about Power Syslog Server please refer to the following page: [http://www.myteamslab.com/2014/09/power-syslog-server.html](http://www.myteamslab.com/2014/09/power-syslog-server.html)**
 
 
  
